@@ -4,5 +4,7 @@
 	"ignored_packages":
 	[
 	],
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"tab_size": 4,
+    "translate_tabs_to_spaces": true
 }
