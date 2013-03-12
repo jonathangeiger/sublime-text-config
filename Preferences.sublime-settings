@@ -1,5 +1,8 @@
 {
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"font_size": 13.0,
-	"ignored_packages": [],
-	"use_simple_full_screen": true	
+	"ignored_packages":
+	[
+	],
+	"use_simple_full_screen": true
 }
