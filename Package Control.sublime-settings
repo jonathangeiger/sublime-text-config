@@ -2,6 +2,10 @@
 	"installed_packages":
 	[
 		"Git",
-		"Solarized Color Scheme"
+		"Package Control",
+		"Solarized Color Scheme",
+		"SplitScreen",
+		"SublimeCodeIntel",
+		"SublimeLinter"
 	]
 }
