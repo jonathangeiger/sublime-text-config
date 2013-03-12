@@ -1,4 +1,5 @@
 {
 	"font_size": 13.0,
-	"ignored_packages": []
+	"ignored_packages": [],
+	"use_simple_full_screen": true	
 }
